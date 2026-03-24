@@ -117,33 +117,6 @@ superpower: Shipping features that actually scale 🚀
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lakshmana-k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmana-k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmana-k&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="60%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshmana-k&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff" width="95%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lakshmana-k&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="95%"/>
-</div>
-
----
-
 ## 📝 Publication
 
 <div align="center">
