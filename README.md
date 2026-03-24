@@ -17,8 +17,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=lakshmana-k&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
